@@ -1,0 +1,16 @@
+openai>=1.40.0
+chromadb>=0.5.3
+tiktoken>=0.7.0
+streamlit>=1.36.0
+pyttsx3>=2.90 # TTS (opțional, offline)
+openai-whisper>=20231117 # STT (opțional, offline model small/medium/large)
+torch # necesar pentru whisper
+pydub>=0.25.1 # util pentru conversie audio
+Pillow>=10.0.0 # manipulare imagini
+python-dotenv>=1.0.1
+audio-recorder-streamlit>=0.0.8
+
+fastapi>=0.110
+uvicorn[standard]>=0.27
+httpx>=0.27
+

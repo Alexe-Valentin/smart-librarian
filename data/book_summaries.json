@@ -1,0 +1,741 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genres": [
+      "Dystopian",
+      "Political Fiction"
+    ],
+    "themes": [
+      "totalitarianism",
+      "surveillance",
+      "control of truth",
+      "freedom"
+    ],
+    "summary": "A bleak future where the Party monitors every thought. Winston Smith quietly resists Big Brother, seeking truth and love while propaganda and fear suffocate society."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "year": 1937,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "themes": [
+      "courage",
+      "friendship",
+      "home vs. adventure"
+    ],
+    "summary": "Comfort‑loving Bilbo Baggins is swept into a quest with dwarves to reclaim a stolen treasure from the dragon Smaug. Along the road he discovers wit, bravery, and unlikely allies."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "themes": [
+      "friendship",
+      "coming of age",
+      "good vs evil",
+      "found family"
+    ],
+    "summary": "An orphan learns he is a wizard and enters a school of magic. With new friends he faces trials and a dark foe tied to his past."
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "year": 1954,
+    "genres": [
+      "Fantasy",
+      "Epic"
+    ],
+    "themes": [
+      "sacrifice",
+      "temptation",
+      "hope against darkness"
+    ],
+    "summary": "A humble hobbit inherits a ring of terrible power. A fellowship forms to carry it south and destroy it before it corrupts the world."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genres": [
+      "Classic",
+      "Historical"
+    ],
+    "themes": [
+      "racial injustice",
+      "moral courage",
+      "childhood innocence"
+    ],
+    "summary": "Through Scout Finch’s eyes, a small Southern town confronts prejudice when her father defends a Black man falsely accused. A warm, sharp tale about conscience and compassion."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genres": [
+      "Classic",
+      "Romance"
+    ],
+    "themes": [
+      "love vs social class",
+      "misjudgment",
+      "family"
+    ],
+    "summary": "Elizabeth Bennet clashes with the aloof Mr. Darcy in a witty dance of pride and misunderstanding. Sharp social satire meets slow‑burn romance."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genres": [
+      "Classic"
+    ],
+    "themes": [
+      "American Dream",
+      "desire",
+      "illusion"
+    ],
+    "summary": "Nick Carraway observes the glitter and emptiness of Jazz‑Age Long Island. Jay Gatsby’s grand love and reinvention lead to tragic unraveling."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genres": [
+      "Classic",
+      "Adventure"
+    ],
+    "themes": [
+      "obsession",
+      "fate",
+      "man vs nature"
+    ],
+    "summary": "Captain Ahab drives his crew across vast oceans to hunt the white whale that maimed him. A sprawling meditation on purpose and madness."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genres": [
+      "Fable",
+      "Philosophical"
+    ],
+    "themes": [
+      "destiny",
+      "personal legend",
+      "faith"
+    ],
+    "summary": "A shepherd follows recurring dreams from Spain to Egypt, learning to read omens and trust his heart. A simple parable about purpose and courage."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "genres": [
+      "Post‑apocalyptic",
+      "Literary"
+    ],
+    "themes": [
+      "parenthood",
+      "hope",
+      "survival"
+    ],
+    "summary": "A father and son trek through a burned America, guarding a fragile flame of kindness. Sparse prose, stark danger, and fierce love."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genres": [
+      "Science Fiction",
+      "Epic"
+    ],
+    "themes": [
+      "ecology",
+      "power",
+      "prophecy",
+      "religion"
+    ],
+    "summary": "On desert planet Arrakis, noble houses fight over the spice. Young Paul Atreides is thrust into politics, prophecy, and guerrilla survival among the Fremen."
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984,
+    "genres": [
+      "Science Fiction",
+      "Cyberpunk"
+    ],
+    "themes": [
+      "AI",
+      "corporate power",
+      "identity"
+    ],
+    "summary": "A washed‑up hacker is hired for a near‑impossible cyberspace heist. Neon noir, jacked‑in action, and the birth of cyberpunk style."
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "myth‑making",
+      "talent and obsession",
+      "storytelling"
+    ],
+    "summary": "Kvothe recounts how a gifted street urchin became a notorious arcanist. Music, magic, and mystery in a patient, lyrical fantasy."
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "year": 2006,
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "rebellion",
+      "trust",
+      "found family"
+    ],
+    "summary": "A street crew led by a gifted girl takes on an immortal tyrant using Allomancy—metal‑based powers. Heist energy meets epic revolution."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "year": 2005,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "themes": [
+      "corruption",
+      "violence",
+      "justice"
+    ],
+    "summary": "A disgraced journalist and a brilliant hacker dig into a wealthy family’s secrets. Cold cases, corporate rot, and a fierce, enigmatic heroine."
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "year": 2012,
+    "genres": [
+      "Thriller"
+    ],
+    "themes": [
+      "marriage",
+      "media spectacle",
+      "deception"
+    ],
+    "summary": "When Amy disappears, suspicion falls on her husband. Twisty, toxic, and razor‑sharp about the stories we tell about ourselves."
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "themes": [
+      "secret societies",
+      "art clues",
+      "faith"
+    ],
+    "summary": "A symbologist races across Europe to solve a murder tied to art history. Puzzles, chases, and conspiracies galore."
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "year": 2011,
+    "genres": [
+      "Science Fiction"
+    ],
+    "themes": [
+      "ingenuity",
+      "isolation",
+      "survival"
+    ],
+    "summary": "Stranded on Mars, an astronaut hacks botany and engineering to stay alive. Wry logs, hard science, and relentless problem‑solving."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "genres": [
+      "Dystopian"
+    ],
+    "themes": [
+      "patriarchy",
+      "religious extremism",
+      "resistance"
+    ],
+    "summary": "In Gilead, fertile women are forced into servitude. Offred fights to retain identity and memory under a theocratic regime."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genres": [
+      "Dystopian"
+    ],
+    "themes": [
+      "conditioning",
+      "hedonism",
+      "conformity"
+    ],
+    "summary": "A glossy future trades freedom for comfort through genetic castes and pleasure drugs. One outsider questions the cost of stability."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "genres": [
+      "Dystopian"
+    ],
+    "themes": [
+      "censorship",
+      "media",
+      "rebellion"
+    ],
+    "summary": "Fireman Guy Montag burns books until curiosity sparks rebellion. A parable about thinking freely in a numbing media age."
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "genres": [
+      "Historical",
+      "Literary"
+    ],
+    "themes": [
+      "guilt",
+      "friendship",
+      "redemption"
+    ],
+    "summary": "A Kabul childhood friendship is shattered; years later, a man seeks to make amends across borders and wars."
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Philosophical"
+    ],
+    "themes": [
+      "faith",
+      "storytelling",
+      "survival"
+    ],
+    "summary": "Shipwrecked with a Bengal tiger, Pi must survive at sea. A fable about belief and the stories we choose."
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "genres": [
+      "Historical",
+      "Young Adult"
+    ],
+    "themes": [
+      "war",
+      "words",
+      "found family"
+    ],
+    "summary": "In Nazi Germany, a girl steals books and shares them with neighbors and a hidden refugee. Death narrates with haunting warmth."
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "year": 2011,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [
+      "rivalry",
+      "fate",
+      "love"
+    ],
+    "summary": "A mysterious circus appears without warning, stage for a duel between two magicians who fall in love. Dreamy, atmospheric wonder."
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "genres": [
+      "Mystery",
+      "Gothic"
+    ],
+    "themes": [
+      "memory",
+      "books",
+      "secrets"
+    ],
+    "summary": "In postwar Barcelona, a boy protects a forgotten novel from being erased. Labyrinthine intrigue through libraries and alleys."
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J. R. R. Tolkien",
+    "year": 1977,
+    "genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "themes": [
+      "creation",
+      "hubris",
+      "tragedy"
+    ],
+    "summary": "Myths of Middle‑earth: the forging of the world, the pride of elves and men, and the ancient wars against darkness."
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "year": 1996,
+    "genres": [
+      "Fantasy",
+      "Epic"
+    ],
+    "themes": [
+      "power",
+      "honor vs survival",
+      "war"
+    ],
+    "summary": "Noble houses vie for a fragile throne while a colder threat gathers in the North. Brutal politics and tangled loyalties."
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "year": 1982,
+    "genres": [
+      "Literary",
+      "Historical"
+    ],
+    "themes": [
+      "abuse",
+      "sisterhood",
+      "voice"
+    ],
+    "summary": "Through letters, Celie finds strength, love, and self‑worth amid hardship in the American South."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "year": 1987,
+    "genres": [
+      "Literary",
+      "Historical"
+    ],
+    "themes": [
+      "slavery's legacy",
+      "motherhood",
+      "haunting"
+    ],
+    "summary": "A formerly enslaved woman is haunted by the past—literally and figuratively. Lyrical, devastating, and humane."
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "themes": [
+      "absurdity",
+      "cosmos",
+      "chance"
+    ],
+    "summary": "Earth is demolished for a hyperspace bypass; a hapless human hitchhikes the universe with a towel and a sardonic guidebook."
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "genres": [
+      "Science Fiction"
+    ],
+    "themes": [
+      "predictive science",
+      "civilization",
+      "decline"
+    ],
+    "summary": "A mathematician predicts empire’s fall and seeds a plan to shorten the dark age. Big ideas over generations."
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "year": 1985,
+    "genres": [
+      "Science Fiction",
+      "Military"
+    ],
+    "themes": [
+      "child soldiers",
+      "empathy",
+      "strategy"
+    ],
+    "summary": "A gifted boy trains through war games to face an alien threat, only to learn a shattering truth about victory."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "genres": [
+      "Classic",
+      "Gothic"
+    ],
+    "themes": [
+      "vanity",
+      "morality",
+      "decadence"
+    ],
+    "summary": "A beautiful young man never ages while his hidden portrait rots with sin. A witty, sinister tale of self‑indulgence."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "themes": [
+      "modernity vs superstition",
+      "desire",
+      "fear"
+    ],
+    "summary": "Told through journals and letters, a vampire from Transylvania preys upon Victorian London. Atmosphere, dread, and brave pursuit."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "themes": [
+      "creation",
+      "responsibility",
+      "alienation"
+    ],
+    "summary": "A scientist stitches life from death, then recoils from his creation. A tragic dialogue between maker and made."
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "year": 1977,
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "themes": [
+      "isolation",
+      "addiction",
+      "haunted spaces"
+    ],
+    "summary": "Caretakers of an empty hotel for winter, a family unravels as the building’s hungry history wakes up."
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "year": 1986,
+    "genres": [
+      "Horror"
+    ],
+    "themes": [
+      "childhood trauma",
+      "courage",
+      "memory"
+    ],
+    "summary": "A circle of friends faces a shapeshifting evil that feeds on fear—first as kids, then decades later as adults."
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "year": 1989,
+    "genres": [
+      "Historical",
+      "Epic"
+    ],
+    "themes": [
+      "ambition",
+      "craft",
+      "faith"
+    ],
+    "summary": "In medieval England, the building of a cathedral entangles lives in politics, love, and rivalry over decades."
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "genres": [
+      "Nonfiction",
+      "History"
+    ],
+    "themes": [
+      "human evolution",
+      "myths",
+      "society"
+    ],
+    "summary": "A sweeping narrative of Homo sapiens—from foragers to empires—arguing that shared fictions knit large societies."
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "year": 2018,
+    "genres": [
+      "Memoir"
+    ],
+    "themes": [
+      "self‑invention",
+      "family",
+      "education"
+    ],
+    "summary": "Raised by survivalists with no formal schooling, a young woman pursues education to understand and rebuild her life."
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "genres": [
+      "Nonfiction",
+      "Self‑help"
+    ],
+    "themes": [
+      "behavior change",
+      "systems",
+      "identity"
+    ],
+    "summary": "Tiny, consistent improvements compound. Practical frameworks for designing habits and environments that stick."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "genres": [
+      "Nonfiction",
+      "Psychology"
+    ],
+    "themes": [
+      "bias",
+      "decision‑making",
+      "heuristics"
+    ],
+    "summary": "Nobel laureate explains two modes of thought—fast and intuitive, slow and analytical—and how they mislead our choices."
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "genres": [
+      "Business"
+    ],
+    "themes": [
+      "experimentation",
+      "validated learning",
+      "innovation"
+    ],
+    "summary": "Build‑measure‑learn: a method to test ideas quickly, pivot with data, and avoid waste when creating new products."
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "year": 1999,
+    "genres": [
+      "Technology",
+      "Software"
+    ],
+    "themes": [
+      "craftsmanship",
+      "automation",
+      "communication"
+    ],
+    "summary": "Timeless advice for developers: treat code as craft, automate prudently, write clearly, and keep learning."
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "year": 1988,
+    "genres": [
+      "Design",
+      "Nonfiction"
+    ],
+    "themes": [
+      "human‑centered design",
+      "affordances",
+      "usability"
+    ],
+    "summary": "Why everyday objects confuse us—and how to fix them. A classic on designing for how people really think and act."
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "year": 2012,
+    "genres": [
+      "Nonfiction",
+      "Self‑help"
+    ],
+    "themes": [
+      "cue‑routine‑reward",
+      "behavior change"
+    ],
+    "summary": "Explores the loop that drives habits in people and organizations, with stories and strategies for change."
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "year": 2016,
+    "genres": [
+      "Nonfiction",
+      "Self‑help"
+    ],
+    "themes": [
+      "values",
+      "limitations",
+      "meaning"
+    ],
+    "summary": "A blunt argument for choosing what truly matters and accepting constraints, rather than chasing constant positivity."
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "year": -500,
+    "genres": [
+      "Strategy",
+      "Classics"
+    ],
+    "themes": [
+      "strategy",
+      "deception",
+      "leadership"
+    ],
+    "summary": "Ancient aphorisms on planning, terrain, and morale. A military manual with enduring lessons for competition."
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "year": 1969,
+    "genres": [
+      "Science Fiction"
+    ],
+    "themes": [
+      "gender",
+      "otherness",
+      "loyalty"
+    ],
+    "summary": "An envoy on an icy world must trust a native ally in a society without fixed gender. Political intrigue and deep empathy."
+  }
+]

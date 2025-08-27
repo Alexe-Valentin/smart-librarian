@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.ipynb_checkpoints/
+
+# Envs & tools
+.venv*/
+venv/
+.env
+.env.local
+.env.*.local
+
+# Streamlit
+.streamlit/
+
+# Local data / vector DB / assets generated at runtime
+chroma/
+assets/covers/
+assets/tmp/
+data/log.csv
+data/user_prefs.json
+
+# Audio, images, misc generated
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.png
+*.jpg
+*.jpeg
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
